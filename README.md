@@ -1,4 +1,4 @@
-# wow2
+# wow2（week2）
 # 我国有哪些关于公共数据开放的条例或法规？
 ## 1.《上海市公共数据开放暂行办法》
 信源：上海市人民政府网站
@@ -90,7 +90,8 @@
 统计指标：国内生产总值当季值（亿元）
 
 数据页面：
-![image]
+
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/36ebfabce47ce08c82f0bbcb205f40f.png)
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/fa8d686f970671f64af78b0ba5f743a.png)
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/d3992088d71e200e64db79507cb103f.png)
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/cdd74d751079567dd309a033c9e2db4.png)
@@ -101,8 +102,17 @@
 
 
 计算步骤：
+
 2012-2013年第一季度：
 （2013第一季度值-2012年第一季度值）/2012第一季度值
+
 以此类推，即可
+
 答案：
-![image](
+
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/36ebfabce47ce08c82f0bbcb205f40f.png)
+
+可视化呈现：
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/4626938b4e491b52c3fc435e1eb2566.png)
+
+吴澳-201701133004
