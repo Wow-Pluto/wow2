@@ -90,10 +90,19 @@
 统计指标：国内生产总值当季值（亿元）
 
 数据页面：
-
+![image]
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/fa8d686f970671f64af78b0ba5f743a.png)
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/d3992088d71e200e64db79507cb103f.png)
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/cdd74d751079567dd309a033c9e2db4.png)
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/b6a6f02a52073e9a8cfd6f97717f181.png)
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/97f725011c7c03b896d4f8ee093031b.png)
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/534582dde6c14b24f1e10731b20526c.png)
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/3c14c0c1e82e0b6c0ced48bf2901e5a.png)
 
 
 计算步骤：
-2012-2018年第一季度：
-
+2012-2013年第一季度：
+（2013第一季度值-2012年第一季度值）/2012第一季度值
+以此类推，即可
 答案：
+![image](
