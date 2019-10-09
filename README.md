@@ -92,12 +92,21 @@
 数据页面：
 
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/36ebfabce47ce08c82f0bbcb205f40f.png)
+
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/2cb67cde3ae1b143eca24403eff30c4.png)
+
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/fa8d686f970671f64af78b0ba5f743a.png)
+
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/d3992088d71e200e64db79507cb103f.png)
+
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/cdd74d751079567dd309a033c9e2db4.png)
+
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/b6a6f02a52073e9a8cfd6f97717f181.png)
+
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/97f725011c7c03b896d4f8ee093031b.png)
+
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/534582dde6c14b24f1e10731b20526c.png)
+
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/3c14c0c1e82e0b6c0ced48bf2901e5a.png)
 
 
